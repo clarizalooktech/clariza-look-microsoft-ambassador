@@ -37,10 +37,27 @@ My name is Clariza Look, a digital marketing specialist turned into a DevOps Dat
 
 ## Language & Tools:
 
-<img align="left" alt="Python" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-ai-fundamentals-600x600.png" />
+<img align="left" alt="python" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<img align="left" alt="Apache Spark Logo" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/Apache_Spark_logo.svg.png" />
+<img align="left" alt="visual studio code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+ 
+<img align="left" alt="bash" width="40px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/full_colored_dark.svg" />
+ 
+ <img align="left" alt="Java" width="40px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/java.svg" />
+ 
+<img align="left" alt="Azure" width="40px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
 
+<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
+
+<img align="left" alt="Docker" width="40px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/Docker-Logo-2013-2015.png" />
+ 
+<img align="left" alt="Apache Spark" width="40px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/Apache_Spark_logo.svg.png" />
+
+<img align="left" alt="Bootstrap" width="40px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/bootstrap.png" />
+ 
+<img align="left" alt="Pandas" width="40px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/pandas-logo-300.png" />
+ <img align="left" alt="Git" width="40px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/git-logo.png" />
+ <img align="left" alt="Git" width="40px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/GitHub-Logo.png" />
 <br />
 <br />
 
