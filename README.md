@@ -25,11 +25,7 @@
 
 My name is Clariza Look, a digital marketing specialist turned into a DevOps Data Engineer. I am also a microsoft learn student ambassador based in Perth. Currently, I am a graduating student from the University of Western Australia taking Master of Information Technology.
 
-## Technical Certifications
-
-These are some of my Microsoft Certifications.  Check out my training notes in my GitHub Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study! https://github.com/codess-aus
-
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
