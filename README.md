@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 
-<img src="https://github.com/msandfor/msandfor/blob/master/assets/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
+<img src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/header.png" alt="banner that says Clariza Look, Aspiring Data Engineer">
 
 <!-- Social Links -->
 
