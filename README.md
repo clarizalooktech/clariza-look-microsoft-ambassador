@@ -12,18 +12,14 @@
 
 <!-- Social Links -->
 
-<p align="center">
+<p align="left">
   
-  
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/clariza/)
-
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@clarizalook)
-
-[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/clarizalook/)
-
-  
+<a href="https://www.linkedin.com/in/clarizalook/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/clarlooktech"><img src="https://img.shields.io/badge/-Kaggle-blue"/></a>
+<a href="https://twitter.com/clarizalook"><img src=https://img.shields.io/badge/-Twitter-orange"/></a>
 </p>
 
+<br />
 
 <!-- Profile Blurb -->
 
