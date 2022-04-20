@@ -23,7 +23,7 @@
 
 <!-- Profile Blurb -->
 
-I'm a Developer Engagment Lead who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons. I am an Open Source Advocate. I am focused on Student and Data Science & AI Communities.
+My name is Clariza Look, a digital marketing specialist turned into a DevOps Data Engineer. I am also a microsoft learn student ambassador based in Perth. Currently, I am a graduating student from the University of Western Australia taking Master of Information Technology.
 
 ## Technical Certifications
 
