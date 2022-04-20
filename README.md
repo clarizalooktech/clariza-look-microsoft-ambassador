@@ -12,7 +12,7 @@
 
 <!-- Social Links -->
 
-<p align="center">
+<p align="left">
   
 <a href="https://www.linkedin.com/in/clarizalook/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/clarlooktech"><img src="https://img.shields.io/badge/-Kaggle-blue"/></a>
@@ -23,6 +23,7 @@
 
 <!-- Profile Blurb -->
 
+
 My name is Clariza Look, a digital marketing specialist turned into a DevOps Data Engineer. I am also a microsoft learn student ambassador based in Perth. Currently, I am a graduating student from the University of Western Australia taking Master of Information Technology.
 
 ## Technical Qualifications:
@@ -32,6 +33,7 @@ My name is Clariza Look, a digital marketing specialist turned into a DevOps Dat
 <img align="left" alt="Certification, Azure Fundamentals" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-fundamentals.png" />
 
 <br />
+<br />
 
 ## Language & Tools:
 
@@ -39,6 +41,7 @@ My name is Clariza Look, a digital marketing specialist turned into a DevOps Dat
 
 <img align="left" alt="Azure" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-fundamentals.png" />
 
+<br />
 <br />
 
 
