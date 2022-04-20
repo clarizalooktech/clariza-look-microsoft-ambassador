@@ -48,7 +48,7 @@ My name is Clariza Look, a digital marketing specialist turned into a DevOps Dat
 
 ## Latest Projects:
 
-* [Buying a car as a Data Scientist](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
-* [Using Data Science for Customer Acquisition](https://towardsdatascience.com/using-data-science-for-customer-acquisition-2001525792f)
-* [Tuning a Model’s Hyperparameters and Aiming for a Specific Metric in Accordance with the Business Scenario](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
+* [Python Project - Calculating Student Grades](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
+* [IOT-based Pet Feeder Project ](https://www.youtube.com/watch?v=jDToLjIALMA&t=2s)
+* [GIS Presentation Using QGIS](https://www.youtube.com/watch?v=IQc13B3KZgQ)
 
