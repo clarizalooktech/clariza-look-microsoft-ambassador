@@ -33,5 +33,13 @@ My name is Clariza Look, a digital marketing specialist turned into a DevOps Dat
 
 <br />
 
+## Language & Tools:
+
+<img align="left" alt="Python" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-ai-fundamentals-600x600.png" />
+
+<img align="left" alt="Azure" width="60px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-fundamentals.png" />
+
+<br />
+
 
 
